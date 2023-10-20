@@ -1,0 +1,1 @@
+config = Ini bisa mencakup pengaturan seperti ikon aplikasi, tema, kebijakan keamanan, dan banyak lagi.
