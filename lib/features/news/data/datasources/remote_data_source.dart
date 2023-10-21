@@ -17,10 +17,6 @@ class NewsRemoteDataSourceImpl implements NewsRemoteDataSource {
   );
   @override
   Future<NewsModel> getData() async {
-    // final response = await dio.get('${baseUrl}top-headlines', queryParameters: {
-    //   'country': country,
-    //   'apiKey': apiKey,
-    // });
     final responseV2 = await http.get(
         Uri.parse('${baseUrl}top-headlines?country=$country&apiKey=$apiKey'));
     if (responseV2.statusCode == 200) {

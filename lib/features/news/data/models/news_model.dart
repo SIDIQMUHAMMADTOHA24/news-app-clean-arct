@@ -41,7 +41,6 @@ class NewsModel extends Equatable {
       };
 
   @override
-  // TODO: implement props
   List<Object?> get props => [status, totalResults, articles];
 }
 
@@ -104,7 +103,6 @@ class Article extends Equatable {
       };
 
   @override
-  // TODO: implement props
   List<Object?> get props => [
         author,
         title,
