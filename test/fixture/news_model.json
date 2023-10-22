@@ -1,213 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 37,
   "articles": [
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Liputan6.com",
-      "title": "Bos Meta Umumkan Pengguna WhatsApp Bakal Bisa Punya 2 Akun di 1 Perangkat - Liputan6.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmxpcHV0YW42LmNvbS90ZWtuby9yZWFkLzU0Mjc3MzcvYm9zLW1ldGEtdW11bWthbi1wZW5nZ3VuYS13aGF0c2FwcC1iYWthbC1iaXNhLXB1bnlhLTItYWt1bi1kaS0xLXBlcmFuZ2thdNIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-20T00:30:58Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNN Indonesia",
-      "title": "Cara Pre-order iPhone 15, Dibuka Mulai Hari ini - CNN Indonesia",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNubmluZG9uZXNpYS5jb20vdGVrbm9sb2dpLzIwMjMxMDIwMDYyMDMwLTIwNi0xMDEzNjI1L2NhcmEtcHJlLW9yZGVyLWlwaG9uZS0xNS1kaWJ1a2EtbXVsYWktaGFyaS1pbmnSAXRodHRwczovL3d3dy5jbm5pbmRvbmVzaWEuY29tL3Rla25vbG9naS8yMDIzMTAyMDA2MjAzMC0yMDYtMTAxMzYyNS9jYXJhLXByZS1vcmRlci1pcGhvbmUtMTUtZGlidWthLW11bGFpLWhhcmktaW5pL2FtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T23:47:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "detikHot",
-      "title": "Rieta Amilia Ingkar Janji Hadiri Sidang, Gideon Tengker Ancam Lapor Polisi - detikHot",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vaG90LmRldGlrLmNvbS9jZWxlYi9kLTY5OTIxNTIvcmlldGEtYW1pbGlhLWluZ2thci1qYW5qaS1oYWRpcmktc2lkYW5nLWdpZGVvbi10ZW5na2VyLWFuY2FtLWxhcG9yLXBvbGlzadIBc2h0dHBzOi8vaG90LmRldGlrLmNvbS9jZWxlYi9kLTY5OTIxNTIvcmlldGEtYW1pbGlhLWluZ2thci1qYW5qaS1oYWRpcmktc2lkYW5nLWdpZGVvbi10ZW5na2VyLWFuY2FtLWxhcG9yLXBvbGlzaS9hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T23:33:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Liputan6.com",
-      "title": "Gejala Cacar Monyet Timbul Benjolan Kelenjar Getah Bening, Ini Pesan Dinkes DKI - Liputan6.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmxpcHV0YW42LmNvbS9oZWFsdGgvcmVhZC81NDI3NjQxL2dlamFsYS1jYWNhci1tb255ZXQtdGltYnVsLWJlbmpvbGFuLWtlbGVuamFyLWdldGFoLWJlbmluZy1pbmktcGVzYW4tZGlua2VzLWRradIBc2h0dHBzOi8vd3d3LmxpcHV0YW42LmNvbS9hbXAvNTQyNzY0MS9nZWphbGEtY2FjYXItbW9ueWV0LXRpbWJ1bC1iZW5qb2xhbi1rZWxlbmphci1nZXRhaC1iZW5pbmctaW5pLXBlc2FuLWRpbmtlcy1ka2k?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T23:00:25Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "detikNews",
-      "title": "8 Fakta Mengejutkan di Putusan Lukas Enembe yang Jauh Lebih Ringan - detikNews",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy5kZXRpay5jb20vYmVyaXRhL2QtNjk5MjEzMi84LWZha3RhLW1lbmdlanV0a2FuLWRpLXB1dHVzYW4tbHVrYXMtZW5lbWJlLXlhbmctamF1aC1sZWJpaC1yaW5nYW7SAW5odHRwczovL25ld3MuZGV0aWsuY29tL2Jlcml0YS9kLTY5OTIxMzIvOC1mYWt0YS1tZW5nZWp1dGthbi1kaS1wdXR1c2FuLWx1a2FzLWVuZW1iZS15YW5nLWphdWgtbGViaWgtcmluZ2FuL2FtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T23:00:23Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "detikNews",
-      "title": "BMKG Hari Ini: Prakiraan Cuaca 20 Oktober 2023 Jakarta, Cek Sekarang - detikNews",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy5kZXRpay5jb20vYmVyaXRhL2QtNjk5MjEyOC9ibWtnLWhhcmktaW5pLXByYWtpcmFhbi1jdWFjYS0yMC1va3RvYmVyLTIwMjMtamFrYXJ0YS1jZWstc2VrYXJhbmfSAW5odHRwczovL25ld3MuZGV0aWsuY29tL2Jlcml0YS9kLTY5OTIxMjgvYm1rZy1oYXJpLWluaS1wcmFraXJhYW4tY3VhY2EtMjAtb2t0b2Jlci0yMDIzLWpha2FydGEtY2VrLXNla2FyYW5nL2FtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T23:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNN Indonesia",
-      "title": "Suka Sakit Leher saat Bangun Tidur? Ini 5 Cara Mudah Mengatasinya - CNN Indonesia",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jbm5pbmRvbmVzaWEuY29tL2dheWEtaGlkdXAvMjAyMzEwMTkxNjA0MjgtMjU1LTEwMTM0NzEvc3VrYS1zYWtpdC1sZWhlci1zYWF0LWJhbmd1bi10aWR1ci1pbmktNS1jYXJhLW11ZGFoLW1lbmdhdGFzaW55YdIBhwFodHRwczovL3d3dy5jbm5pbmRvbmVzaWEuY29tL2dheWEtaGlkdXAvMjAyMzEwMTkxNjA0MjgtMjU1LTEwMTM0NzEvc3VrYS1zYWtpdC1sZWhlci1zYWF0LWJhbmd1bi10aWR1ci1pbmktNS1jYXJhLW11ZGFoLW1lbmdhdGFzaW55YS9hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T23:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "VIVA.co.id",
-      "title": "Ramalan Zodiak Jumat 20 Oktober 2023, Leo: Tetap Tegar Meski Hari Kamu Berat - VIVA.co.id",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy52aXZhLmNvLmlkL2dheWEtaGlkdXAvaW5zcGlyYXNpLXVuaWsvMTY0ODk3OS1yYW1hbGFuLXpvZGlhay1qdW1hdC0yMC1va3RvYmVyLTIwMjMtbGVvLXRldGFwLXRlZ2FyLW1lc2tpLWhhcmkta2FtdS1iZXJhdNIBhwFodHRwczovL3d3dy52aXZhLmNvLmlkL2FtcC9nYXlhLWhpZHVwL2luc3BpcmFzaS11bmlrLzE2NDg5NzktcmFtYWxhbi16b2RpYWstanVtYXQtMjAtb2t0b2Jlci0yMDIzLWxlby10ZXRhcC10ZWdhci1tZXNraS1oYXJpLWthbXUtYmVyYXQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T22:30:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNN Indonesia",
-      "title": "Hasto PDIP: Mungkin Ada yang Deg-degan Tes Kesehatan Capres - CNN Indonesia",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmNubmluZG9uZXNpYS5jb20vbmFzaW9uYWwvMjAyMzEwMTkxODUwMjYtNjE3LTEwMTM1NTEvaGFzdG8tcGRpcC1tdW5na2luLWFkYS15YW5nLWRlZy1kZWdhbi10ZXMta2VzZWhhdGFuLWNhcHJlc9IBf2h0dHBzOi8vd3d3LmNubmluZG9uZXNpYS5jb20vbmFzaW9uYWwvMjAyMzEwMTkxODUwMjYtNjE3LTEwMTM1NTEvaGFzdG8tcGRpcC1tdW5na2luLWFkYS15YW5nLWRlZy1kZWdhbi10ZXMta2VzZWhhdGFuLWNhcHJlcy9hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T21:50:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Antariksa",
-      "title": "Bahan Kimia Sampah Antariksa Mulai Mencemari Atmosfer, Mengancam Iklim Bumi - Antariksa - Antariksa",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYW50YXJpa3NhLnJlcHVibGlrYS5jby5pZC9uZXdzLzE3MTMwOTM5NTkvYmFoYW4ta2ltaWEtc2FtcGFoLWFudGFyaWtzYS1tdWxhaS1tZW5jZW1hcmktYXRtb3NmZXItbWVuZ2FuY2FtLWlrbGltLWJ1bWnSAYABaHR0cHM6Ly9hbnRhcmlrc2EucmVwdWJsaWthLmNvLmlkL25ld3MvYW1wLzE3MTMwOTM5NTkvYmFoYW4ta2ltaWEtc2FtcGFoLWFudGFyaWtzYS1tdWxhaS1tZW5jZW1hcmktYXRtb3NmZXItbWVuZ2FuY2FtLWlrbGltLWJ1bWk?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T21:50:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNN Indonesia",
-      "title": "Israel Bunuh Kepala Pasukan Keamanan Hamas di Gaza - CNN Indonesia",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNubmluZG9uZXNpYS5jb20vaW50ZXJuYXNpb25hbC8yMDIzMTAyMDAzMjgxMS0xMjAtMTAxMzYxOS9pc3JhZWwtYnVudWgta2VwYWxhLXBhc3VrYW4ta2VhbWFuYW4taGFtYXMtZGktZ2F6YdIBfGh0dHBzOi8vd3d3LmNubmluZG9uZXNpYS5jb20vaW50ZXJuYXNpb25hbC8yMDIzMTAyMDAzMjgxMS0xMjAtMTAxMzYxOS9pc3JhZWwtYnVudWgta2VwYWxhLXBhc3VrYW4ta2VhbWFuYW4taGFtYXMtZGktZ2F6YS9hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T20:44:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Investasi Kontan",
-      "title": "IHSG Merosot, Asing Banyak Menadah Saham-Saham Ini, Kamis (19/10) - Investasi Kontan",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vaW52ZXN0YXNpLmtvbnRhbi5jby5pZC9uZXdzL2loc2ctbWVyb3NvdC1hc2luZy1iYW55YWstbWVuYWRhaC1zYWhhbS1zYWhhbS1pbmkta2FtaXMtMTkxMNIBWmh0dHBzOi8vYW1wLmtvbnRhbi5jby5pZC9uZXdzL2loc2ctbWVyb3NvdC1hc2luZy1iYW55YWstbWVuYWRhaC1zYWhhbS1zYWhhbS1pbmkta2FtaXMtMTkxMA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T17:15:24Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "tvOneNews.com",
-      "title": "Motif Pembunuhan Sadis Tuti dan Amalia di Subang Segera Terungkap, Polisi Segera Lakukan Ini di TKP - tvOneNews.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy50dm9uZW5ld3MuY29tL2Jlcml0YS8xNjA3MDgtbW90aWYtcGVtYnVudWhhbi1zYWRpcy10dXRpLWRhbi1hbWFsaWEtZGktc3ViYW5nLXNlZ2VyYS10ZXJ1bmdrYXAtcG9saXNpLXNlZ2VyYS1sYWt1a2FuLWluaS1kaS10a3DSAY4BaHR0cHM6Ly93d3cudHZvbmVuZXdzLmNvbS9hbXAvYmVyaXRhLzE2MDcwOC1tb3RpZi1wZW1idW51aGFuLXNhZGlzLXR1dGktZGFuLWFtYWxpYS1kaS1zdWJhbmctc2VnZXJhLXRlcnVuZ2thcC1wb2xpc2ktc2VnZXJhLWxha3VrYW4taW5pLWRpLXRrcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T16:55:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Kurusetra",
-      "title": "Link Download GB WhatsApp Tawarkan Fitur Canggih, Gratis tapi Bisa Bawa Bencana Jangan Asal Instal GB WA - Kurusetra - Kurusetra",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL2t1cnVzZXRyYS5yZXB1Ymxpa2EuY28uaWQvdGVrbm9sb2dpLzE1ODMwOTI3NTAvbGluay1kb3dubG9hZC1nYi13aGF0c2FwcC10YXdhcmthbi1maXR1ci1jYW5nZ2loLWdyYXRpcy10YXBpLWJpc2EtYmF3YS1iZW5jYW5hLWphbmdhbi1hc2FsLWluc3RhbC1nYi13YdIBogFodHRwczovL2t1cnVzZXRyYS5yZXB1Ymxpa2EuY28uaWQvdGVrbm9sb2dpL2FtcC8xNTgzMDkyNzUwL2xpbmstZG93bmxvYWQtZ2Itd2hhdHNhcHAtdGF3YXJrYW4tZml0dXItY2FuZ2dpaC1ncmF0aXMtdGFwaS1iaXNhLWJhd2EtYmVuY2FuYS1qYW5nYW4tYXNhbC1pbnN0YWwtZ2Itd2E?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T16:53:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "detikNews",
-      "title": "Warga Sukabumi Dengar Suara Gemuruh saat Gempa Garut M 5,6 - detikNews",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbmV3cy5kZXRpay5jb20vYmVyaXRhL2QtNjk5MTk5NS93YXJnYS1zdWthYnVtaS1kZW5nYXItc3VhcmEtZ2VtdXJ1aC1zYWF0LWdlbXBhLWdhcnV0LW0tNTbSAWVodHRwczovL25ld3MuZGV0aWsuY29tL2Jlcml0YS9kLTY5OTE5OTUvd2FyZ2Etc3VrYWJ1bWktZGVuZ2FyLXN1YXJhLWdlbXVydWgtc2FhdC1nZW1wYS1nYXJ1dC1tLTU2L2FtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-10-19T14:55:40Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
       "author": "Nasional Kompas.com",
-      "title": "Jika Jadi Presiden, Prabowo: Tidak Boleh Ada Kemiskinan di Indonesia, Tak Boleh Ada Anak Kurang Gizi - Kompas.com - Nasional Kompas.com",
+      "title": "Golkar Resmi Dukung Gibran Jadi Cawapres Prabowo Subianto - Kompas.com - Nasional Kompas.com",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL25hc2lvbmFsLmtvbXBhcy5jb20vcmVhZC8yMDIzLzEwLzE5LzIxMjk1OTExL2ppa2EtamFkaS1wcmVzaWRlbi1wcmFib3dvLXRpZGFrLWJvbGVoLWFkYS1rZW1pc2tpbmFuLWRpLWluZG9uZXNpYS10YWstYm9sZWjSAYUBaHR0cHM6Ly9hbXAua29tcGFzLmNvbS9uYXNpb25hbC9yZWFkLzIwMjMvMTAvMTkvMjEyOTU5MTEvamlrYS1qYWRpLXByZXNpZGVuLXByYWJvd28tdGlkYWstYm9sZWgtYWRhLWtlbWlza2luYW4tZGktaW5kb25lc2lhLXRhay1ib2xlaA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbmFzaW9uYWwua29tcGFzLmNvbS9yZWFkLzIwMjMvMTAvMjEvMTEyNjI4NzEvZ29sa2FyLXJlc21pLWR1a3VuZy1naWJyYW4tamFkaS1jYXdhcHJlcy1wcmFib3dvLXN1YmlhbnRv0gFyaHR0cHM6Ly9hbXAua29tcGFzLmNvbS9uYXNpb25hbC9yZWFkLzIwMjMvMTAvMjEvMTEyNjI4NzEvZ29sa2FyLXJlc21pLWR1a3VuZy1naWJyYW4tamFkaS1jYXdhcHJlcy1wcmFib3dvLXN1YmlhbnRv?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-10-19T14:29:00Z",
+      "publishedAt": "2023-10-21T04:26:00Z",
       "content": null
     },
     {
@@ -215,12 +20,12 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Antariksa",
-      "title": "Kuatnya Pisau Plasma Relativitas, Matahari pun Bisa Terbelah Dua - Antariksa - Antariksa",
+      "author": "Poskota",
+      "title": "Cara Login di Yandex RU dan Yandex Com Yandex Browser Jepang untuk nonton Video Bokeh Terbaru 2023 Tanpa VPN - poskota.co.id - Poskota",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYW50YXJpa3NhLnJlcHVibGlrYS5jby5pZC9zYWlucy8xNzEzMDkyNDM3L2t1YXRueWEtcGlzYXUtcGxhc21hLXJlbGF0aXZpdGFzLW1hdGFoYXJpLXB1bi1iaXNhLXRlcmJlbGFoLWR1YdIBdmh0dHBzOi8vYW50YXJpa3NhLnJlcHVibGlrYS5jby5pZC9zYWlucy9hbXAvMTcxMzA5MjQzNy9rdWF0bnlhLXBpc2F1LXBsYXNtYS1yZWxhdGl2aXRhcy1tYXRhaGFyaS1wdW4tYmlzYS10ZXJiZWxhaC1kdWE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3Bvc2tvdGEuY28uaWQvMjAyMy8xMC8yMS9jYXJhLWxvZ2luLWRpLXlhbmRleC1ydS1kYW4teWFuZGV4LWNvbS15YW5kZXgtYnJvd3Nlci1qZXBhbmctdW50dWstbm9udG9uLXZpZGVvLWJva2VoLXRlcmJhcnUtMjAyMy10YW5wYS12cG7SAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-10-19T14:14:00Z",
+      "publishedAt": "2023-10-21T04:17:12Z",
       "content": null
     },
     {
@@ -228,12 +33,129 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "CNBC Indonesia",
-      "title": "Jokowi Kutuk Serangan Israel Ke RS Di Gaza, RI Tak Akan Diam - CNBC Indonesia",
+      "author": "detikHealth",
+      "title": "Waspada! Nyeri Dada saat Jalan Seperti Ini Pertanda Risiko Serangan Jantung - detikHealth",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmNuYmNpbmRvbmVzaWEuY29tL25ld3MvMjAyMzEwMTkxODIzMDEtOC00ODIwOTkvam9rb3dpLWt1dHVrLXNlcmFuZ2FuLWlzcmFlbC1rZS1ycy1kaS1nYXphLXJpLXRhay1ha2FuLWRpYW3SAXpodHRwczovL3d3dy5jbmJjaW5kb25lc2lhLmNvbS9uZXdzLzIwMjMxMDE5MTgyMzAxLTgtNDgyMDk5L2pva293aS1rdXR1ay1zZXJhbmdhbi1pc3JhZWwta2UtcnMtZGktZ2F6YS1yaS10YWstYWthbi1kaWFtL2FtcA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL2hlYWx0aC5kZXRpay5jb20vYmVyaXRhLWRldGlraGVhbHRoL2QtNjk5NDI4NS93YXNwYWRhLW55ZXJpLWRhZGEtc2FhdC1qYWxhbi1zZXBlcnRpLWluaS1wZXJ0YW5kYS1yaXNpa28tc2VyYW5nYW4tamFudHVuZ9IBhAFodHRwczovL2hlYWx0aC5kZXRpay5jb20vYmVyaXRhLWRldGlraGVhbHRoL2QtNjk5NDI4NS93YXNwYWRhLW55ZXJpLWRhZGEtc2FhdC1qYWxhbi1zZXBlcnRpLWluaS1wZXJ0YW5kYS1yaXNpa28tc2VyYW5nYW4tamFudHVuZy9hbXA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-10-19T14:00:22Z",
+      "publishedAt": "2023-10-21T04:11:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Prohaba.co",
+      "title": "Muncul lagi, Kasus Cacar Monyet Bertambah jadi Tiga Kasus - Prohaba.co",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vcHJvaGFiYS50cmlidW5uZXdzLmNvbS8yMDIzLzEwLzIxL211bmN1bC1sYWdpLWthc3VzLWNhY2FyLW1vbnlldC1iZXJ0YW1iYWgtamFkaS10aWdhLWthc3Vz0gFmaHR0cHM6Ly9wcm9oYWJhLnRyaWJ1bm5ld3MuY29tL2FtcC8yMDIzLzEwLzIxL211bmN1bC1sYWdpLWthc3VzLWNhY2FyLW1vbnlldC1iZXJ0YW1iYWgtamFkaS10aWdhLWthc3Vz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T04:09:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Disway",
+      "title": "Heboh! Komet Sebesar Tiga Kali Gunung Everest Mengarah Ke Bumi Meledak - radarlebong.disway.id - Disway",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vcmFkYXJsZWJvbmcuZGlzd2F5LmlkL3JlYWQvNjU4MDE2L2hlYm9oLWtvbWV0LXNlYmVzYXItdGlnYS1rYWxpLWd1bnVuZy1ldmVyZXN0LW1lbmdhcmFoLWtlLWJ1bWktbWVsZWRha9IBbmh0dHBzOi8vcmFkYXJsZWJvbmcuZGlzd2F5LmlkL2FtcC82NTgwMTYvaGVib2gta29tZXQtc2ViZXNhci10aWdhLWthbGktZ3VudW5nLWV2ZXJlc3QtbWVuZ2FyYWgta2UtYnVtaS1tZWxlZGFr?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T03:51:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "detikNews",
+      "title": "Survei Ipsos: Elektabilitas Prabowo 30,13% Ungguli Ganjar 29,77%, Anies 20,00% - detikNews",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbmV3cy5kZXRpay5jb20vcGVtaWx1L2QtNjk5NDIyOC9zdXJ2ZWktaXBzb3MtZWxla3RhYmlsaXRhcy1wcmFib3dvLTMwMTMtdW5nZ3VsaS1nYW5qYXItMjk3Ny1hbmllcy0yMDAw0gFyaHR0cHM6Ly9uZXdzLmRldGlrLmNvbS9wZW1pbHUvZC02OTk0MjI4L3N1cnZlaS1pcHNvcy1lbGVrdGFiaWxpdGFzLXByYWJvd28tMzAxMy11bmdndWxpLWdhbmphci0yOTc3LWFuaWVzLTIwMDAvYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T03:44:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN Indonesia",
+      "title": "Ahli Bongkar Misteri Kematian Massal Paus Abu-abu, Manusia Aktor Utama - CNN Indonesia",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jbm5pbmRvbmVzaWEuY29tL3Rla25vbG9naS8yMDIzMTAyMDE0MzMwNC0xOTktMTAxMzg0NC9haGxpLWJvbmdrYXItbWlzdGVyaS1rZW1hdGlhbi1tYXNzYWwtcGF1cy1hYnUtYWJ1LW1hbnVzaWEtYWt0b3ItdXRhbWHSAYsBaHR0cHM6Ly93d3cuY25uaW5kb25lc2lhLmNvbS90ZWtub2xvZ2kvMjAyMzEwMjAxNDMzMDQtMTk5LTEwMTM4NDQvYWhsaS1ib25na2FyLW1pc3Rlcmkta2VtYXRpYW4tbWFzc2FsLXBhdXMtYWJ1LWFidS1tYW51c2lhLWFrdG9yLXV0YW1hL2FtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T03:16:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "KOMPAS.com",
+      "title": "Ketika Justin Timberlake Merespons Pengakuan Aborsi Birtney Spears - Kompas.com - KOMPAS.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmtvbXBhcy5jb20vaHlwZS9yZWFkLzIwMjMvMTAvMjEvMTAxNDQyNDY2L2tldGlrYS1qdXN0aW4tdGltYmVybGFrZS1tZXJlc3BvbnMtcGVuZ2FrdWFuLWFib3JzaS1iaXJ0bmV5LXNwZWFyc9IBeGh0dHBzOi8vYW1wLmtvbXBhcy5jb20vaHlwZS9yZWFkLzIwMjMvMTAvMjEvMTAxNDQyNDY2L2tldGlrYS1qdXN0aW4tdGltYmVybGFrZS1tZXJlc3BvbnMtcGVuZ2FrdWFuLWFib3JzaS1iaXJ0bmV5LXNwZWFycw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T03:14:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "detikFinance",
+      "title": "Harga Emas Hari Ini Cetak Rekor Lagi! Tembus Rp 1,12 Juta - detikFinance",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vZmluYW5jZS5kZXRpay5jb20vYmVyaXRhLWVrb25vbWktYmlzbmlzL2QtNjk5NDE2OC9oYXJnYS1lbWFzLWhhcmktaW5pLWNldGFrLXJla29yLWxhZ2ktdGVtYnVzLXJwLTExMi1qdXRh0gF1aHR0cHM6Ly9maW5hbmNlLmRldGlrLmNvbS9iZXJpdGEtZWtvbm9taS1iaXNuaXMvZC02OTk0MTY4L2hhcmdhLWVtYXMtaGFyaS1pbmktY2V0YWstcmVrb3ItbGFnaS10ZW1idXMtcnAtMTEyLWp1dGEvYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T02:57:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN Indonesia",
+      "title": "Cak Imin Pamer Jurus dari 'Master Pai Mei' Jelang Tes Kesehatan - CNN Indonesia",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmNubmluZG9uZXNpYS5jb20vbmFzaW9uYWwvMjAyMzEwMjEwOTI0MTEtNjE3LTEwMTQxNDEvY2FrLWltaW4tcGFtZXItanVydXMtZGFyaS1tYXN0ZXItcGFpLW1laS1qZWxhbmctdGVzLWtlc2VoYXRhbtIBggFodHRwczovL3d3dy5jbm5pbmRvbmVzaWEuY29tL25hc2lvbmFsLzIwMjMxMDIxMDkyNDExLTYxNy0xMDE0MTQxL2Nhay1pbWluLXBhbWVyLWp1cnVzLWRhcmktbWFzdGVyLXBhaS1tZWktamVsYW5nLXRlcy1rZXNlaGF0YW4vYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T02:40:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "20Detik",
+      "title": "Umat Nasrani Korban Penyerangan Gereja oleh Israel Sindir Joe Biden - 20Detik",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vMjAuZGV0aWsuY29tL2RldGlrdXBkYXRlLzIwMjMxMDIxLTIzMTAyMTA1MS91bWF0LW5hc3Jhbmkta29yYmFuLXBlbnllcmFuZ2FuLWdlcmVqYS1vbGVoLWlzcmFlbC1zaW5kaXItam9lLWJpZGVu0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T02:40:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Radar Tuban",
+      "title": "Obat Herbal Tidak Teruji Atasi Serangan Jantung, Ahli: Tidak Mampu Melumerkan Plak - Radar Tuban - Radar Tuban",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3JhZGFydHViYW4uamF3YXBvcy5jb20vbmFzaW9uYWwvODYzMDk3NDkzL29iYXQtaGVyYmFsLXRpZGFrLXRlcnVqaS1hdGFzaS1zZXJhbmdhbi1qYW50dW5nLWFobGktdGlkYWstbWFtcHUtbWVsdW1lcmthbi1wbGFr0gGGAWh0dHBzOi8vcmFkYXJ0dWJhbi5qYXdhcG9zLmNvbS9uYXNpb25hbC9hbXAvODYzMDk3NDkzL29iYXQtaGVyYmFsLXRpZGFrLXRlcnVqaS1hdGFzaS1zZXJhbmdhbi1qYW50dW5nLWFobGktdGlkYWstbWFtcHUtbWVsdW1lcmthbi1wbGFr?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T02:39:00Z",
       "content": null
     },
     {
@@ -242,11 +164,11 @@
         "name": "Google News"
       },
       "author": "Tribunnews",
-      "title": "Buntut Pengeboman RS di Gaza, Hizbullah Ancam Joe Biden: Waspadalah Kami Sangat Kuat! - Tribunnews",
+      "title": "Presiden Palestina Tolak Panggilan Telepon Joe Biden yang Berupaya Kirim Bantuan untuk Gaza - Tribunnews",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CCAiC2QyWHhVZENXdW9ZmAEB?oc=5",
+      "url": "https://news.google.com/rss/articles/CCAiC1NDbjNWTGIyZVdBmAEB?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-10-19T13:53:36Z",
+      "publishedAt": "2023-10-21T02:35:42Z",
       "content": null
     },
     {
@@ -254,12 +176,90 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "CNBC Indonesia",
-      "title": "Makin Ngeri! Korban Tewas Konflik Israel-Hamas Nyaris 5.000 Jiwa - CNBC Indonesia",
+      "author": "tvOneNews.com",
+      "title": "Misteri Tidak Hadirnya Airlangga Hartarto dalam Rapat Penentuan Cawapres di Rumah Zulkifli Hasan, Sudah Setuju Gibran? - tvOneNews.com",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CCAiC1g3aW5ueWFIaWtZmAEB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy50dm9uZW5ld3MuY29tL2Jlcml0YS9uYXNpb25hbC8xNjEwMjMtbWlzdGVyaS10aWRhay1oYWRpcm55YS1haXJsYW5nZ2EtaGFydGFydG8tZGFsYW0tcmFwYXQtcGVuZW50dWFuLWNhd2FwcmVzLWRpLXJ1bWFoLXp1bGtpZmxpLWhhc2FuLXN1ZGFoLXNldHVqdS1naWJyYW7SAakBaHR0cHM6Ly93d3cudHZvbmVuZXdzLmNvbS9hbXAvYmVyaXRhL25hc2lvbmFsLzE2MTAyMy1taXN0ZXJpLXRpZGFrLWhhZGlybnlhLWFpcmxhbmdnYS1oYXJ0YXJ0by1kYWxhbS1yYXBhdC1wZW5lbnR1YW4tY2F3YXByZXMtZGktcnVtYWgtenVsa2lmbGktaGFzYW4tc3VkYWgtc2V0dWp1LWdpYnJhbg?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-10-19T13:48:07Z",
+      "publishedAt": "2023-10-21T02:34:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "detikSport",
+      "title": "Starting Grid MotoGP Australia 2023 Siang Ini - detikSport",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc3BvcnQuZGV0aWsuY29tL21vdG8tZ3AvZC02OTk0MTIwL3N0YXJ0aW5nLWdyaWQtbW90b2dwLWF1c3RyYWxpYS0yMDIzLXNpYW5nLWluadIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T02:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "detikcom",
+      "title": "Temuan Berlian Kuno Berusia 650 Juta Tahun Ungkap Evolusi Bumi - detikcom",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRldGlrLmNvbS9lZHUvZGV0aWtwZWRpYS9kLTY5OTM1NzQvdGVtdWFuLWJlcmxpYW4ta3Vuby1iZXJ1c2lhLTY1MC1qdXRhLXRhaHVuLXVuZ2thcC1ldm9sdXNpLWJ1bWnSAXFodHRwczovL3d3dy5kZXRpay5jb20vZWR1L2RldGlrcGVkaWEvZC02OTkzNTc0L3RlbXVhbi1iZXJsaWFuLWt1bm8tYmVydXNpYS02NTAtanV0YS10YWh1bi11bmdrYXAtZXZvbHVzaS1idW1pL2FtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T02:00:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Kompas.com",
+      "title": "Momen Jokowi Disambut Prabowo Usai Pulang dari Arab Saudi - Kompas.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiCzJHZGV5aC1mRzJNmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T01:46:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Republika Online",
+      "title": "Israel Ancam Bombardir Rumah Sakit Al-Quds di Jalur Gaza | Republika Online - Republika Online",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vaW50ZXJuYXNpb25hbC5yZXB1Ymxpa2EuY28uaWQvYmVyaXRhL3MydXVpdTM4My9pc3JhZWwtYW5jYW0tYm9tYmFyZGlyLXJ1bWFoLXNha2l0LWFscXVkcy1kaS1qYWx1ci1nYXph0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T01:23:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN Indonesia",
+      "title": "Jadwal Siaran Langsung Semifinal Denmark Open 2023 - CNN Indonesia",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNubmluZG9uZXNpYS5jb20vb2xhaHJhZ2EvMjAyMzEwMjEwODE0NTctMTcwLTEwMTQxMTcvamFkd2FsLXNpYXJhbi1sYW5nc3VuZy1zZW1pZmluYWwtZGVubWFyay1vcGVuLTIwMjPSAXdodHRwczovL3d3dy5jbm5pbmRvbmVzaWEuY29tL29sYWhyYWdhLzIwMjMxMDIxMDgxNDU3LTE3MC0xMDE0MTE3L2phZHdhbC1zaWFyYW4tbGFuZ3N1bmctc2VtaWZpbmFsLWRlbm1hcmstb3Blbi0yMDIzL2FtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T01:20:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Ruang Tekno",
+      "title": "Cara Download WA GB 2023: Link dan Tutorial Instal Gratis - Ruang Tekno - Ruang Tekno",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vcnVhbmd0ZWtuby5yZXB1Ymxpa2EuY28uaWQvdGVrbm9sb2dpLzE2ODMwOTczNDIvY2FyYS1kb3dubG9hZC13YS1nYi0yMDIzLWxpbmstZGFuLXR1dG9yaWFsLWluc3RhbC1ncmF0aXPSAXRodHRwczovL3J1YW5ndGVrbm8ucmVwdWJsaWthLmNvLmlkL3Rla25vbG9naS9hbXAvMTY4MzA5NzM0Mi9jYXJhLWRvd25sb2FkLXdhLWdiLTIwMjMtbGluay1kYW4tdHV0b3JpYWwtaW5zdGFsLWdyYXRpcw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21T01:20:00Z",
       "content": null
     }
   ]

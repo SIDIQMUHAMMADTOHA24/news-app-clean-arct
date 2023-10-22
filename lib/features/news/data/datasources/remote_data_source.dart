@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:news_app/common/config.dart';
-import 'package:news_app/common/exeption.dart';
+import 'package:news_app/core/error/exeption.dart';
 import 'package:news_app/features/news/data/models/news_model.dart';
 import 'package:http/http.dart' as http;
 
