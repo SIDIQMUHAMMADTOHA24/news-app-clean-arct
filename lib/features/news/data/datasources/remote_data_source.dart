@@ -12,9 +12,9 @@ class NewsRemoteDataSourceImpl implements NewsRemoteDataSource {
   // final Dio dio;
   final http.Client client;
 
-  NewsRemoteDataSourceImpl(
-    this.client,
-  );
+  NewsRemoteDataSourceImpl({
+    required this.client,
+  });
   @override
   Future<NewsModel> getData() async {
     final responseV2 = await http.get(

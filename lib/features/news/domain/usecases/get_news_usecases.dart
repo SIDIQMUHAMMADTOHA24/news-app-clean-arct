@@ -6,7 +6,7 @@ import 'package:news_app/features/news/domain/repositories/news_repository.dart'
 class GetNewsUseCase {
   final NewsRepository newsRepository;
 
-  GetNewsUseCase(this.newsRepository);
+  GetNewsUseCase({required this.newsRepository});
   Future<Either<Failure, List<Article>>> execute() {
     return newsRepository.getData();
   }

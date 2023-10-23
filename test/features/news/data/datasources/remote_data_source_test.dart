@@ -17,7 +17,7 @@ void main() {
   //setup
   setUp(() {
     mockHttpClient = MockHttpClient();
-    newsRemoteDataSourceImpl = NewsRemoteDataSourceImpl(mockHttpClient);
+    newsRemoteDataSourceImpl = NewsRemoteDataSourceImpl(client: mockHttpClient);
   });
 
   group('get data news api', () {
