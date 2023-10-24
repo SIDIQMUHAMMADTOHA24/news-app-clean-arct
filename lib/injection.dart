@@ -1,5 +1,6 @@
 import 'package:connectivity/connectivity.dart';
 import 'package:get_it/get_it.dart';
+import 'package:news_app/common/http_ssl_pinning.dart';
 import 'package:news_app/core/network/network_info.dart';
 import 'package:news_app/features/news/data/datasources/remote_data_source.dart';
 import 'package:news_app/features/news/data/repositories/news_repository_impl.dart';
@@ -28,5 +29,7 @@ void init() async {
   sl.registerLazySingleton<NetworkInfo>(
       () => NetworkInfoImpl(connectivity: sl()));
 
+  //external
+  sl.registerLazySingleton(() => HttpSSLPinning.client);
   sl.registerLazySingleton(() => Connectivity());
 }

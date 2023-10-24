@@ -2,7 +2,7 @@
 // in news_app/test/helper/tes_helper.dart.
 // Do not manually edit this file.
 
-// ignore_for_file: no_leading_underscores_for_library_prefixes
+// ignore_for_file: no_leading_underscores_for_library_prefixes, must_be_immutable
 import 'dart:async' as _i5;
 import 'dart:convert' as _i7;
 import 'dart:typed_data' as _i8;

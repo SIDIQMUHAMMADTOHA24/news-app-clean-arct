@@ -19,7 +19,7 @@ class NewsBloc extends Bloc<GetDataNewsEvent, NewsState> {
         (data) {
       emit(GetDataNewsSuccess(articles: data));
       if (data.isEmpty) {
-        emit(GetDataNewsLoading());
+        emit(GetDataNewsInitial());
       }
     });
   }

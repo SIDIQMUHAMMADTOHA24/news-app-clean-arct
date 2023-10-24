@@ -1,5 +1,11 @@
 import 'package:flutter/material.dart';
-import 'features/news/presentation/widgets/app_widget.dart';
-void main(List<String> args) {
+import 'package:news_app/common/http_ssl_pinning.dart';
+import 'app.dart';
+import 'package:news_app/injection.dart' as sl;
+
+void main(List<String> args) async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await HttpSSLPinning.init();
+  sl.init();
   runApp(const MyApp());
 }

@@ -36,17 +36,4 @@ void main() {
       expect(respone, equals(newsModel));
     });
   });
-
-  // test('should throw a ServerException when the response code is 404 or other',
-  //     () async {
-  //   // arrange
-  //   when(
-  //     mockHttpClient.get(Uri.parse(
-  //         'https://newsapi.org/v2/top-headlines')),
-  //   ).thenAnswer((_) async => http.Response('Not Found', 401));
-  //   // act
-  //   final call = newsRemoteDataSourceImpl.getData();
-  //   // assert
-  //   expect(() => call, throwsA(isA<ServerException>()));
-  // });
 }
