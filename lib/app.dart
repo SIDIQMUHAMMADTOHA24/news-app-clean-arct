@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:news_app/common/theme.dart';
+
 import 'package:news_app/features/news/presentation/bloc/news_bloc.dart';
 import 'package:news_app/features/news/presentation/pages/home_pages.dart';
 import 'package:news_app/injection.dart' as locator;
@@ -10,16 +11,19 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
+      statusBarColor: Color(0xffffffff),
+      statusBarIconBrightness: Brightness.dark,
+    ));
     return MultiBlocProvider(
       providers: [
         BlocProvider(
           create: (_) => locator.sl<NewsBloc>(),
         ),
       ],
-      child: MaterialApp(
-        theme: ThemeData.light().copyWith(primaryColor: kWhiteColor),
+      child: const MaterialApp(
         debugShowCheckedModeBanner: false,
-        home: const HomePages(),
+        home: HomePages(),
       ),
     );
   }

@@ -12,7 +12,7 @@ class HandleMenuButtonPress extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: const EdgeInsets.all(10),
+      padding: const EdgeInsets.all(12),
       decoration: BoxDecoration(
           color: kGreyColor, borderRadius: BorderRadius.circular(20)),
       child: Image.asset(
